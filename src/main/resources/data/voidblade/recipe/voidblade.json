@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "key": {
+  "A": "minecraft:amethyst_shard",
+  "P": "minecraft:ender_pearl",
+  "O": "minecraft:obsidian",
+  "E": "minecraft:echo_shard"
+ },
+ "pattern": [
+  "APA",
+  "OEO",
+  "AOA"
+ ],
+ "result": {
+  "id": "voidblade:voidblade",
+  "count": 1
+ }
+}

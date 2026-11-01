@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "voidblade",
+	"version": "${version}",
+	"name": "Voidblade",
+	"description": "A dimensional utility tool: five Rift Anchors, a Void Magnet and animated purple rift effects.",
+	"authors": [
+		"Voidblade"
+	],
+	"license": "MIT",
+	"icon": "assets/voidblade/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.voidblade.VoidbladeMod"
+		],
+		"client": [
+			"com.voidblade.client.VoidbladeClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.0",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

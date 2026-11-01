@@ -1,0 +1,32 @@
+{
+ "rift_open": {
+  "sounds": [
+   "voidblade:rift_open"
+  ]
+ },
+ "rift_arrive": {
+  "sounds": [
+   "voidblade:rift_arrive"
+  ]
+ },
+ "anchor_set": {
+  "sounds": [
+   "voidblade:anchor_set"
+  ]
+ },
+ "magnet_hum": {
+  "sounds": [
+   "voidblade:magnet_hum"
+  ]
+ },
+ "deny": {
+  "sounds": [
+   "voidblade:deny"
+  ]
+ },
+ "ready": {
+  "sounds": [
+   "voidblade:ready"
+  ]
+ }
+}
