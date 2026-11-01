@@ -68,7 +68,7 @@ public final class Magnet {
 	}
 
 	private static void tick(MinecraftServer server) {
-		long now = server.getGameTime();
+		long now = server.overworld().getGameTime();
 		for (ServerPlayer sp : server.getPlayerList().getPlayers()) {
 			Level lvl = sp.level();
 			if (!(lvl instanceof ServerLevel level)) {
